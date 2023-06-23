@@ -1,6 +1,8 @@
 ## WORKSHOP de PROGRAMACIÓN ORIENTADA A OBJETOS (Java) | Makaia
 
-¡Bienvenido al WORKSHOP de PROGRAMACIÓN ORIENTADA A OBJETOS del bootcamp Backend cohorte 2 de Makaia! En este taller, se  pone  en práctica los conceptos fundamentales de la programación orientada a objetos (POO) envistos  en las clases del bootcamp.
+¡Bienvenido al WORKSHOP de PROGRAMACIÓN ORIENTADA A OBJETOS del bootcamp Backend cohorte 2 de Makaia! 
+
+En este taller, se  pone  en práctica los conceptos fundamentales de la programación orientada a objetos (POO) vistos  en las clases del bootcamp.
 
 ## Conceptos vistos
 
