@@ -21,5 +21,6 @@
 Puedes acceder al enuciado <a href="EJERCICIO%20WORKSHOP%20PROGRAMACION%20ORIENTADA%20A%20OBJECTOS%20-%20FINAL%20(2)%20(1).pdf"> AQUÍ. </a>
 
 Ademas de resolver el enunciado, se creó un diagrama de clases que represente la solución propuesta.
-img[Diagrama.png]
- Este se se encuentra <a href="./Diagrama/Diagrama%20.png"> AQUÍ. </a>
+
+<img src= "./Diagrama/Diagrama%20.png">
+
