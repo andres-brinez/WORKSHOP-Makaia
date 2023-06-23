@@ -18,7 +18,7 @@
 
 ## Enunciado
 
-Puedes acceder al enuciado <a href="EJERCICIO%20WORKSHOP%20PROGRAMACION%20ORIENTADA%20A%20OBJECTOS%20-%20FINAL%20(2)%20(1).pdf"> AQUÍ. </a>
+Puedes acceder al enuciado <a href="./EJERCICIO%20WORKSHOP%20PROGRAMACION%20ORIENTADA%20A%20OBJECTOS.pdf"> AQUÍ. </a>
 
 Ademas de resolver el enunciado, se creó un diagrama de clases que represente la solución propuesta.
 
