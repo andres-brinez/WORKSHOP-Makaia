@@ -22,7 +22,7 @@ En este taller, se  pone  en práctica los conceptos fundamentales de la program
 
 Puedes acceder al enunciado <a href="./EJERCICIO%20WORKSHOP%20PROGRAMACION%20ORIENTADA%20A%20OBJECTOS.pdf"> AQUÍ. </a>
 
-Ademas de resolver el enunciado, se creó un diagrama de clases que represente la solución propuesta.
+Ademas de resolver el enunciado usando los conocimiento adquiridos en Java  y en la elaboración de diagramas UML, se creó un diagrama de clases que represente la solución propuesta.
 
 <img src= "./Diagrama/Diagrama%20.png">
 
